@@ -1,2 +1,2 @@
-Data/
-venv/
+Data/**
+venv/**
